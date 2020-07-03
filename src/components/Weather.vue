@@ -134,7 +134,7 @@ export default {
     }
   }
   .bg {
-    background-image: url('https://pic.17qq.com/uploads/qkgqffspny.jpeg');
+    background-image: url('https://cmpvillage.tw/uploads/default/NS_event_photo/raw/c06e77028e2a2d04a9fb6a11579df65f.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
